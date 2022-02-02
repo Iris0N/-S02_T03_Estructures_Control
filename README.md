@@ -1,4 +1,4 @@
-# -S02_T03_Estructures_Control
+# S02_T03_Estructures_Control
 Nivell 1
 - Exercici 1
 
